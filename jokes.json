@@ -1,0 +1,486 @@
+[   
+     
+    {
+        "Set": [
+            {
+                "body": "What do you call a cow with no legs?</br></br>Ground Beef!",
+                "category": "Animal",
+                "id": 1,
+                "title": "Cow With No Legs"
+            },
+            {
+                "body": "What do you call a cow jumping over a barbed wire fence?</br></br>Utter destruction.",
+                "category": "Animal",
+                "id": 2,
+                "title": "Jumping Cow"
+            },
+            {
+                "body": "A termite walks into a bar and asks, \"Is the bartender here?\"",
+                "category": "Animal",
+                "id": 3,
+                "title": "Termit"
+            },
+            {
+                "body": "Did you hear the one about the Polish wolf?</br></br>He chewed off three legs and was still caught in the trap.",
+                "category": "Animal",
+                "id": 4,
+                "title": "Polish Wolf"
+            },
+            {
+                "body": "A veterinarian surgeon had a bad day, but when he got home from tending to all the sick animals, his wife was waiting with a long cool drink and a romantic candle-lit dinner. After dinner, they had a few more drinks and went happily to bed.</br></br>At about 2:00 in the morning, the phone rang. \"Is this the vet?\" asked an elderly lady.</br></br>\"Yes, it is,\" replied the vet, \"Is this an emergency?\"</br></br>\"Well, sort of,\" said the elderly lady, \"There's a whole bunch of cats on the roof outside making a terrible noise mating, and I can't get to sleep. What can I do about it?\"</br></br>There was a sharp intake of breath from the vet, who then patiently replied, \"Open the window and tell them they're wanted on the phone.\"</br></br>\"Really?\" said the elderly lady, \"Will that stop them?\"</br></br>\"Well, it should,\" said the vet, \"It stopped ME!\"",
+                "category": "Animal",
+                "id": 5,
+                "title": "Cat Calling"
+            },
+            {
+                "body": "A veterinarian surgeon had a bad day, but when he got home from tending to all the sick animals, his wife was waiting with a long cool drink and a romantic candle-lit dinner. After dinner, they had a few more drinks and went happily to bed.</br></br>At about 2:00 in the morning, the phone rang. \"Is this the vet?\" asked an elderly lady.</br></br>\"Yes, it is,\" replied the vet, \"Is this an emergency?\"</br></br>\"Well, sort of,\" said the elderly lady, \"There's a whole bunch of cats on the roof outside making a terrible noise mating, and I can't get to sleep. What can I do about it?\"</br></br>There was a sharp intake of breath from the vet, who then patiently replied, \"Open the window and tell them they're wanted on the phone.\"</br></br>\"Really?\" said the elderly lady, \"Will that stop them?\"</br></br>\"Well, it should,\" said the vet, \"It stopped ME!\"",
+                "category": "Animal",
+                "id": 6,
+                "title": "Cat Calls"
+            }
+        ]
+    },
+    
+    { 
+        "Set": [    
+            {
+                "body": "What's black and white and red all over?</br></br>A newspaper.",
+                "category": "Other",
+                "id": 1,
+                "title": "Black, White and Red"
+            },
+            {
+                "body": "What do you call a guy with no arms or legs floating in the ocean?</br></br>Bob!",
+                "category": "Other",
+                "id": 2,
+                "title": "Guy with no Limbs"
+            },
+            {
+                "body": "A white horse walked into a bar.  The barman saw him and said,  \"We have a whiskey named after you!\"</br></br>The horse looked puzzled and said, \"What, Eric?\"",
+                "category": "Other",
+                "id": 3,
+                "title": "White Horse"
+            },
+            {
+                "body": "Saddam Hussein was sitting in his office wondering who to invade next when his telephone rang. </br></br>\"Hallo! Mr. Hussein,\" a heavily accented voice said. \"This is Paddy up in County Cavan, Ireland. I am ringing to inform you that we are officially declaring war on you!\" </br></br>\"Well, Paddy,\" Saddam replied, \"this is indeed important news! Tell me, how big is your army?\" </br></br>\"At this moment in time,\" said Paddy after a moment's calculation, \"there is myself, my cousin Sean, my next door neighbor Gerry, and the entire dominoes team from the pub-that makes 8!\" </br></br>Saddam sighed. \"I must tell you Paddy that I have 1 million men in my army waiting to move on my command.\" </br></br>\"Begorra!\" said Paddy, \"I'll have to ring you back!\" </br></br>Sure enough, the next day Paddy rang back. \"Right Mr. Hussein, the war is still on! We have managed to acquire some equipment!\" </br></br>\"And what equipment would that be, Paddy?\" Saddam asked. </br></br>\"Well, we have 2 combine harvesters, a bulldozer and Murphy's tractor from the farm.\" </br></br>Once more Saddam sighed. \"I must tell you, Paddy, that I have 16 thousand tanks, 14 thousand armored personnel carriers, and my army has increased to 1 and a half million since we last spoke.\" </br></br>\"Really?\" said Paddy \"I'll have to ring you back!\" </br></br>Sure enough, Paddy rang again the next day. \"Right Mr. Hussein, the war is still on! We have managed to get ourselves airborne! We've modified Ted's ultralight with a couple of rifles in the cockpit and the bridge team has joined us as well!\" </br></br>Saddam was silent for a minute, then sighed. \"I must tell you Paddy that I have a thousand bombers, 500 MiG 19 attack planes, my military complex is surrounded by laser-guided surface-to-air missile sites, and since we last spoke, my army has increased to 2 million.\" </br></br>\"Faith and begorra!\" said Paddy, \"I'll have to ring you back.\" </br></br>Sure enough, Paddy called again the next day. \"Right Mr. Hussein, I am sorry to tell you that we have had to call off the war.\" </br></br>\"I'm sorry to hear that,\" said Saddam. \"Why the sudden change of heart?\" </br></br>\"Well,\" said Paddy \"We've all had a chat, and there's no way we can feed 2 million prisoners.\"",
+                "category": "Other",
+                "id": 4,
+                "title": "Hello! Mr Hussein?"
+            },
+            {
+                "body": "A drunk man walked up to an elevator. He pressed the up button and opened the doors before the elevator could come down to him. He fell all the way down, and said, \"Darn it, I said up.\"",
+                "category": "Other",
+                "id": 5,
+                "title": "I Said Up"
+            },
+            {
+                "body": "A man and his wife were cleaning out their attic when the man found a shoe repair stub in the pocket of an old jacket.  \"Hey - check this out,\"  he said to his wife, \"this stub is 20 years old.  I wonder if the shop still has the shoes.\"</br>So the next day the man went to the shoe shop and asked the owner if he still had the shoes.  The owner disappeared into the back of the shop for about five minutes.</br>When he returned, he replied happily, \"Yup, believe it or not, we've still got the shoes.  They'll be ready next Thursday.\"",
+                "category": "Other",
+                "id": 6,
+                "title": "Shoe Repair"
+            },
+            {
+                "body": "The Pope, a hippie, and George Bush were all on a plane that was crashing.  The pilots had already jumped to safety and there were only two parachutes left.  Without a moment's hesitation, Bush grabbed a pack, yelled \"I'm the most powerful man in the universe! I have to survive!\", and jumped from the plane.</br>The Pope, being the generous man that he is, said to the hippie, \"You go ahead and take the last parachute.  I'm an old man and I have lived a very full life.\"  </br>The hippie thanked the Pope but said, \"Don't worry - we'll both be fine.  The most powerful man in the universe just jumped off the plane with my backpack.\"",
+                "category": "Other",
+                "id": 7,
+                "title": "Crashing Plane"
+            },
+            {
+                "body": "It's wise to remember how easily this wonderful technology can be misused, sometimes unintentionally, with serious consequences.</br></br>Consider the case of the Illinois man who left the snow-filled streets of Chicago for a vacation in Florida. His wife was on a business trip and was planning to meet him there the next day. When he reached his hotel, he decided to send his wife a quick e-mail. Unable to find the scrap of paper on which he had written her e-mail address, he did his best to type it in from memory.</br></br>Unfortunately, he missed one letter, and his note was directed instead to an elderly preacher's wife, whose husband had passed away only the day before. When the grieving widow checked her e-mail, she took one look at the monitor, let out a piercing</br>scream, and fell to the floor in a dead faint.</br></br>At the sound, her family rushed into the room and saw this note on the screen:</br></br>Dearest Wife,</br></br>Just got checked in. Everything prepared for your arrival tomorrow.</br></br>PS. Sure is hot down here.",
+                "category": "Other ",
+                "id": 8,
+                "title": "E-mails"
+            },
+            {
+                "body": "These are phrases found on funny T-shirts:</br></br>*(camoflauge) Ha! Now you can't see me!</br>* He did it --></br>*The leprechauns are after my stash.</br>*I do what the voices tell me to do...</br>*Not the brightest crayon in the box, are we?</br>*See no homework, Speak no homework, Hear no    homework, DO NO HOMEWORK.</br>*I bet you were an ugly baby.</br>*(Picture of Simpsons on it) I see dumb people...</br>*I didn't do it.</br>*(Scribbles all over it) Don't drink and draw.</br>*(Picture of skunk) Silent but deadly...</br>*He farted --></br>*(Picture of gas station) I have gas!</br>*(Squirrels) Protect your nuts.</br>*I'm out of bed and dressed, what more do you want?</br>*Help! I talk too much!</br>*(Upside down) If you can read this, please send me back to the bar...</br>*The closest I got to an 86% average in college was my alcohol blood level.</br>*My parents think I'm in school</br>*My girlfriend thinks I'm out of town</br>*FOR SALE</br>*(Big smilie) I'm no longer a danger to society!",
+                "category": "Other",
+                "id": 9,
+                "title": "T-Shirts"
+            },
+            {
+                "body": "You Know You're Addicted to Video Games When...</br> </br>1.) Your wife tells you that you are, and your two kids; Mario, and Sonic; agree with her.</br></br>2.) Whenever something bad happens, you reach for the pause button.</br></br>3.) You can microwave and eat a pizza  using only your feet.</br></br>4.) You've spent so much time playing Tony Hawk Pro Skater 4 -- you actually taught youself how to skateboard.</br></br>5.) You've worn out the buttons in the elevator of your apartment.</br></br>6.) The only joystick you play with anymore is plugged in to your Xbox.</br></br>7.) You've decided you won't go outside anymore due to the 'tacky graphics, poor sound and low playability.'</br></br>8.) You've moved your PS2 into the bathroom -- just in case you make it to the next level on Vice City.</br></br>9.) Your hands are so gnarled from gripping the controller, you can't even tie your shoes.</br></br>10.) You ask your doctor how many lives you have left. </br></br>11.) You actually get these jokes and tell them to other friends who are addicted to video games!",
+                "category": "Other",
+                "id": 10,
+                "title": "Addicted To Video Games?"
+            }        
+        ]  
+    },
+    {
+        "Set": [
+            {
+                "body": "If the opposite of pro is con, isn't the opposite of progress, congress?",
+                "category": "One Liners",
+                "id": 1,
+                "title": "Progress"
+            },
+            {
+                "body": "Do infants enjoy infancy as much as adults enjoy adultery?",
+                "category": "One Liners",
+                "id": 2,
+                "title": "Infants vs Adults"
+            },
+            {
+                "body": "Before you judge someone, you should walk a mile in their shoes. </br>That way, when you judge them, you're a mile away and you have their shoes.",
+                "category": "One Liners",
+                "id": 3,
+                "title": "Judgement"
+            },
+            {
+                "body": "Why did the penny become angry with the nickel?</br></br>Because the nickel was a \"penny pincher\".",
+                "category": "One Liners",
+                "id": 4,
+                "title": "Penny and Nickel"
+            },
+            {
+                "body": "What did one tradesman say to another?</br></br>I hope you have a \"barter\" day tomorrow.",
+                "category": "One Liners",
+                "id": 5,
+                "title": "Bartering Tradesmen"
+            },
+            {
+                "body": "When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl",
+                "category": "One Liners",
+                "id": 6,
+                "title": "Bayl"
+            },
+            {
+                "body": "If a pig loses its voice, is it disgruntled?",
+                "category": "One Liners",
+                "id": 7,
+                "title": "Pig"
+            },
+            {
+                "body": "What's the difference between a Mexican and a Bench?</br></br>A bench can support a whole family.",
+                "category": "One Liners",
+                "id": 8,
+                "title": "Mexican and Bench"
+            },
+            {
+                "body": "There was a dyslexic insomniac agnostic.</br></br>He laid awake all night wondering if there really was a Dog.",
+                "category": "One Liners",
+                "id": 9,
+                "title": "Pondering the afterlife"
+            }
+        ]
+    },
+    {
+        "Set": [
+            {
+                "body": "I went to a wedding the other day.  Two antennas were getting married.  It wasn't much of a wedding ceremony, but it was one heck of a reception!",
+                "category": "Puns",
+                "id": 1,
+                "title": "Antenna"
+            },
+            {
+                "body": "Joel: \"How's the progress on new house that you are building Pete?\"</br>Peter: \"Things are really slow at the moment.\"</br>Joel: \"Yeah, I guess all this rain would be putting a dampener on things...\"",
+                "category": "Puns",
+                "id": 2,
+                "title": "Rain"
+            },
+            {
+                "body": "A polar bear walked into a bar and said</br>\"Can I please have a gin and............................................tonic?\"</br>The bartender replied \"Sure, but why the large pause?\"</br>\"I don't know, I've always had them!\"",
+                "category": "Puns",
+                "id": 3,
+                "title": "Polar Bear"
+            },
+            {
+                "body": "Did you know diarhea is part of your inheritence?</br></br>Ya, it flows in our genes.",
+                "category": "Puns",
+                "id": 4,
+                "title": "Diarhea"
+            }    
+        ]
+    },
+        
+    {
+        "Set": [
+            {
+                "body": "How many lawyers does it take to shingle the roof of a house?</br></br>It depends on how thin you slice 'em.",
+                "category": "Lawyer",
+                "id": 1,
+                "title": "Shingles"
+            },        
+            {
+                "body": "What do you call 500 lawyers at the bottom of the sea?</br></br>A start.",
+                "category": "Lawyer",
+                "id": 2,
+                "title": "500 Lawyers"
+            }
+        ]
+    },
+    {
+        "Set": [
+            {
+                "body": "Doctor: Well I hope you enjoy changing diapers, Mrs Jones?</br>Mrs Jones: Why, Am I pregnant?</br>Doctor: No, you have bowel cancer!",
+                "category": "Gross",
+                "id": 1,
+                "title": "Am I Pregnant?"
+            },
+            {
+                "body": "THE COMMON FART </br></br>The Common Fart is the fart heard most often. It is a very close relative of the \"Ripper\", but is released with less force. It is usually heard in groups where people aren't yet comfortable with farting amongst each other. Therefore, one person in the group gets up some nerve and releases this common-sounding fart in such a manner that everyone now feels comfortable with group flatulence.. Usually there is no smell with the Common Fart. </br></br>THE ANXIOUS FART </br></br>The Anxious Fart is let in a place where someone does not want the fart to be heard. </br>You may have seen men and women in book stores or grocery stores, or even on the street, letting these farts. </br>They are generally controlled, usually barely audible, and require much skill to master. </br></br>THE COUGHING FART </br></br>The Coughing Fart is one that the farter tries to cover up with a cough. My dad used to let these farts all the time when he worked at the Bingo Hall. He would stand at the back of the hall and cough, just as a nice \"common fart\" was let. It can be embarrassing for the farter, and those around the farter, if the timing is off at all, or if the fart is longer than anticipated. </br></br>THE WET FART </br></br>The Wet Fart is one that sounds quite juicy. Quite often this fart is cause for alarm, </br>and an indication that a trip to the toilet is imminent.</br></br>THE BLOWER </br></br>This fart is similar to the ripper, except it has a bit of a hollow, windy sound to it. </br>This is due to farter blowing all the gas out quickly. This fart will almost always get a laugh. </br></br>TIGHT BUN FART </br></br>This fart is always recognizable. It sounds like the farter's </br>buns were so tight that he/she was in pain while farting. </br></br>THE RIPPER</br></br>One of the best farts around is The Ripper. It is loud, rough, and always raises an eyebrow or two. Characteristics of The Ripper often show up in other farts, but make no mistake - </br>this fart is a single, powerful gas-bubble that comes screaming from the farter's butt",
+                "category": "Gross",
+                "id": 2,
+                "title": "Fart File"
+            },
+            {
+                "body": "Reacting to Federal guidelines, the State of FLORIDA, which has been highlighted as a role model for student testing by the Bush Administration's Dept. of Education, has redesigned and just released a new comprehensive test to be given to all students beginning in the spring of the 2004-2005 school year.</br></br>In response to President Bush's Federal No Child Left Behind Act, students will have to pass it to be promoted to the next grade level.</br>In the hopes that it will be uniformly adopted by all the states, it will be called the Federal Arithmetic and Reading Test or (FART).</br></br>All students who cannot pass a FART in the second grade will be retested in grades 3, 4, and 5 until such a time as they are capable of achieving a FART score of 80%. If a student does not successfully FART by grade 5, that student shall be placed in a separate English program, the Special Mastery Elective for Learning Language (SMELL).</br></br>If with this increased SMELL program the student cannot pass the required FART test, he or she can graduate to middle school by taking a one-semester course in Comprehensive Reading and Arithmetic Preparation (CRAP).</br></br>If by age fourteen, the student cannot FART, SMELL, or CRAP,he will earn his promotion in an intensive one-week seminar. This is the Preparatory Reading for Unprepared Nationally Exempted Students (PRUNES).</br></br>It is the opinion of the Florida Department of Public Instruction (DPI) that an intensive week of PRUNES will enable any student to FART, SMELL, or CRAP. </br>This revised provision of the student-testing component of House Bill 110 should help clear the air.</br></br>This is part of the: \"No School Left Standing Act\".",
+                "category": "Gross",
+                "id": 3,
+                "title": "No Child Left Behind Act"
+            },
+            {
+                "body": "An elderly gentleman went to see his doctor and asked for a prescription of Viagra.</br></br>The doctor said, \"That's no problem. How many do you want?\" </br></br>The man answered, \"Just a few, maybe 4, but cut each one in 4 pieces.\" </br></br>The doctor said, \"That won't do you any good.\" </br></br>The elderly gentleman said, \"That's all right. I don't need them for sex any more as I am over 90 years old. I just want</br>it to stick out far enough so I don't pee on my shoes.\"",
+                "category": "Gross",
+                "id": 4,
+                "title": "Split the Viagra"
+            },
+            {
+                "body": "Q What has two legs, and bleeds?</br></br>A Half a dog!",
+                "category": "Gross",
+                "id": 5,
+                "title": "Two Legs"
+            }
+        ]
+    },
+
+    {
+        "Set": [
+            {
+                "body": "Yo momma is so stupid, she took the Pepsi challenge and chose Jif.",
+                "category": "Yo Momma",
+                "id": 1,
+                "title": "Pepsi Challenge"
+            },
+            {
+                "body": "Yo mamma so fat when she wears high heels 2 hours later they're flip flops.",
+                "category": "Yo Momma",
+                "id": 2,
+                "title": "She So Fat"
+            },  
+            {
+                "body": "Yo mama so fat when she sat on a rainbow skittles came out!",
+                "category": "Yo Momma",
+                "id": 3,
+                "title": "Skittles"
+            },
+            {
+                "body": "Your momma so ugly when she walked through the graveyard 2 men came after her with shovels.",
+                "category": "Yo Momma",
+                "id": 4,
+                "title": "Graveyard"
+            },
+            {
+                "body": "Your momma so fat when she broke a leg gravy came out.",
+                "category": "Yo Momma",
+                "id": 5,
+                "title": "Gravy"
+            },
+            {
+                "body": "Your momma so ugly when she went to the horse track people started placing bets on her.",
+                "category": "Yo Momma",
+                "id": 6,
+                "title": "The Track"
+            },
+            {
+                "body": "Yo momma is so fat, that to get her out of a phone booth we had to grease her thighs and throw a Twinkie into the street.",
+                "category": "Yo Momma",
+                "id": 7,
+                "title": "Phone Booth"
+            }
+        ]
+    },
+
+    {
+        "Set": [
+            {
+                "body": "A brunette was walking down the middle of the street, saying \"34...34...34\" over and over again.  A blonde stopped her and asked why she was doing that.</br></br>\"Oh, it's great fun,\" replied the brunette. \"You should try it\".</br></br>So the blonde walked down the street repeating \"34...34...34...\" when all of a sudden a car sped by and ran her over.</br></br>The brunette then started walking down the road again, saying \"35...35...35...\"",
+                "category": "Blond",
+                "id": 1,
+                "title": "34...34...34..."
+            },
+            {
+                "body": "How can you tell if a blonde woman has been dating?</br></br>By the belt buckle imprint on her forehead.",
+                "category": "Blond",
+                "id": 2,
+                "title": "Dating Blonde"
+            },
+            {
+                "body": "What does a blonde say when she loses her virginity?</br></br>\"So are you guys all on the same team?\"",
+                "category": "Blond",
+                "id": 3,
+                "title": "Blonde Deflowering"
+            },
+            {
+                "body": "What do you call a blond with half a brain?</br></br>Gifted.",
+                "category": "Blond",
+                "id": 4,
+                "title": "Clever Blond"
+            },
+            {
+                "body": "A famous blonde actress and her husband are going to meet an American. However, her husband has forgotten the young man's name. Later, the young man asks for an autograph. She asks, trying to find his name out, \"How do you spell your name?\" Upon hearing this, he said,\"B-E-N A long time ago when I saw your first play on Broadway and got an autograph, you knew how to spell it.\"",
+                "category": "Blond",
+                "id": 5,
+                "title": "How to Spell..."
+            },
+            {
+                "body": "Why did the blonde bury her walkman?</br>Because the batteries were dead.",
+                "category": "Blond",
+                "id": 6,
+                "title": "Walkman"
+            },
+            {
+                "body": "How does a stereotypical blonde spell \"farm\"?</br>E-I-E-I-O",
+                "category": "Blond",
+                "id": 7,
+                "title": "Farm"
+            },
+            {
+                "body": "An Essex girl walks into the local dry cleaners. She places a garment on the counter.</br></br>\"I'll be back tomorrow afternoon to pick up my dress,\" she says.</br></br>\"Come again?\" says the clerk, cupping his ear.</br></br>\"No\" she replies. \"This time it's mayonnaise.\"",
+                "category": "Blond",
+                "id": 8,
+                "title": "Dry Cleaners"
+            }
+        ]
+    },
+
+    {
+        "Set": [
+            {
+                "body": "The new priest is nervous about hearing confessions, so he asks an older priest to sit in on his sessions.</br></br>The new priest hears a couple confessions, then the old priest asks him to step out of the confessional for a few suggestions.</br></br>The old priest suggests, \"Cross you arms over your chest, and rub your chin with one hand.\" The new priest tries this. The old priest suggests, \"Try saying things like, 'I see,' 'yes,' 'go on,' 'I understand,' and 'how did you feel about that?'\"</br></br>The new priest says those things, trying them out.</br>The old priest says, \"Now, don't you think that's a little better than slapping your knee and saying 'No shit! What happened next?'\"",
+                "category": "Religious",
+                "id": 1,
+                "title": "Sound Advice"
+            },
+            
+            {
+                "body": "A bishop, a priest, and a Rabbi walk into a bar.</br></br>The bartender looks at them and says, \"What is this, a joke?\"",
+                "category": "Religious",
+                "id": 2,
+                "title": "Bishop, Priest, Rabbi"
+            }
+        ]
+    },
+
+
+    {
+        "Set": [
+            {
+                "body": "Memorize these definitions and pooping at work will become a pure pleasure.</br></br>ESCAPEE: A fart that slips out while taking a leak at the urinal or forcing poop in a stall. This is usually accompanied by a sudden wave of panic/embarrassment. This is similar to the hot flash you receive when passing an unseen police car & speeding. If you release an escapee, do not acknowledge it. Pretend it did not happen. If you are standing next to the farter at the urinal, pretend that you did not hear it. No one likes an escapee, it is uncomfortable for all involved. Making a joke or laughing makes both parties feel uneasy.</br></br>JAILBREAK (Used in conjunction with escapee): When forcing a poop, several farts slip out at a machine gun's pace. This is usually a side effect of diarrhea or a hangover. If this should happen do not panic, remain in the stall until everyone has left the bathroom so to spare everyone the awkwardness of what just occurred.</br></br>COURTESY FLUSH: The act of flushing the toilet the instant the nose cone of the poop log hits the water and the poop is whisked away to an undisclosed location. This reduces the amount of air time the poop has to stink up the bathroom. This can help you avoid being caught doing the WALK OF SHAME.</br></br>WALK OF SHAME: Walking from the stall, to the sink, to the door after you have just stunk-up the shitter. This can be a very uncomfortable moment if someone walks in and busts you. As with all farts, it is best to pretend that the smell does not exist. Can be avoided with the use of a COURTESY FLUSH.</br></br>OUT OF THE CLOSET POOPER: A colleague who poops at work and is damn proud of it. You will often see an Out of the Closet Pooper enter the bathroom with a newspaper or magazine under their arm. Always look around the office for the Out OF THE CLOSET POOPER before entering the bathroom.</br></br>THE POOPING FRIENDS NETWORK (PFN): This is a group of coworkers who band together to ensure emergency pooping goes off without incident. This group can help you to monitor the whereabouts of OUT OF THE CLOSET POOPERS and identify SAFE HAVENS.</br></br>SAFE HAVEN: A seldom used bathroom somewhere in the building where you can least expect visitors. Try floors that are predominantly of the opposite sex. This will reduce the odds of a pooper of your sex entering the bathroom.</br></br>TURD BURGLAR: A pooper who does not realize that you're in the stall and tries to force the door open. This is one of the most shocking and vulnerable moments that occur when taking a dump at work. If this occurs, remain in the stall until the TURD BURGLAR leaves. This way you will avoid all uncomfortable eye contact. TURD BURGLARS have been know to cause premature pinchage, which inevitably causes you to pinch one off in the middle.</br></br>CAMO-COUGH: A phony cough which alerts all new entrants into the bathroom that you are in a stall. This can be used to cover-up a WATERMELON or to alert potential TURD BURGLARS. Very effective when used in conjunction with an ASTAIRE.</br></br>ASTAIRE: This is a subtle toe-tap that is used to alert all potential TURD BURGLARS that you are occupying a stall. This will remove all doubt that the stall is occupied. If you hear an ASTAIRE, leave the bathroom immediately so the pooper can poop in peace.</br></br>WATERMELON: A turd that creates a loud splash when hitting the toilet water. This is also an embarrassing incident. If you feel a WATERMELON coming on, create a diversion. See CAMO-COUGH.</br></br>HAVANA OMELET: A load of diarrhea that creates a series of loud splashes in the toilet water. Often accompanied by an escapee. Try using a CAMO-COUGH with an ASTAIRE.</br></br>UNCLE TED: A bathroom user who seems to linger around forever. Could spend extended lengths of time in front of the mirror or sitting on the pot. An UNCLE TED makes it difficult to relax while on the crapper, as you should always wait to drop your load when the bathroom is empty. This benefits you as well as the other bathroom attendees.</br></br>FLY BY: The act of scouting out a bathroom before pooping. Walk in, check for other poopers. If there are others in the bathroom, leave and come back again. Be careful not to become a FREQUENT FLYER. People may become suspicious if they catch you constantly going into the bathroom.",
+                "category": "At Work",
+                "id": 1,
+                "title": "Survival Guide For Taking a Dump at Work"
+            },
+            {
+                "body": "Economic times were very bad, so the plant owner had a difficult time finding people to work in his new factory.  In an act of desperation, he hired a tribe of cannibals.  At their orientation he made it very clear that he would not tolerate any acts of cannibalism in the plant.</br></br>Three months went by without incident, when all of a sudden a secretary disappeared without a trace.</br></br>The manager rounded up all of the cannibals.</br>\"If I find out that one of you ate the secretary,\" he said, \"I'm going to fire all of you!\" and with that, stormed out of the room.</br></br>After he left the room, one of the cannibals stood up and said, \"This is a disgrace! For months we've been eating managers and no one has even noticed!  Which one of you fools ate a secretary?!\"",
+                "category": "At Work",
+                "id": 2,
+                "title": "Cannibals"
+            },
+            {
+                "body": "Jim is in a hot-air balloon, completely lost.  He sees a man in a field below and flies down to him.</br></br>\"Excuse me sir, but can you tell me where I am?\"</br></br>The man in the field replied \"You're in a balloon.\"</br></br>Jim said \"You're an engineer, aren't you?\"</br></br>\"Why yes, I am.  How did you know?\"</br></br>\"Because you gave me a perfectly logical, yet completely useless answer.\"</br></br>Jim continued flying, when he saw another man in a field.  \"Excuse me, sir, but can you tell me where I am?\" he asked.</br></br>\"Well, you're about two miles north of Ogdenville.  If you go to the west side of town you'll find an airstrip that you can safely land on.\"</br></br>Jim replied \"Thank you very much, sir.  That was extremely helpful.  Say, I'll bet you're a manager, aren't you?\"</br></br>\"Why yes, I am, how did you know?\"</br></br>\"Because your pants are on backward\".",
+                "category": "At Work",
+                "id": 3,
+                "title": "Balloon Ride"
+            }
+        ]    
+    },
+
+    {
+        "Set": [
+            {
+                "body": "A mother and a her daughter go to a restaurant for breakfast to celebrate her birthday. The restaurant is known for its imported cheeses.</br> The mother asks, \"Would you like some cheese, my angel?\" The little girl says,\"Sure, but can you take out the holes in the cheese?\"",
+                "category": "Children",
+                "id": 1,
+                "title": "Daughter and Mother"
+            },
+            {
+                "body": "One day Little Jimmy has a dentist appointment. The appointment is during 7:20 to 8:20, which is the first hour of Little Jimmy's school. The appointment went fine, but Little Jimmy's mom had to get up from bed early to take Little Jimmy to his appointment, so she is a little tired. Little Jimmy's mother gives him a note, and she instructs him to give the note to his teacher. Little Jimmy doesn't look at the note, then when he gets into his classroom, he hands the note to his teacher, just as his mother had instructed. His teacher took the note, took a glance at it, then fainted. Little Jimmy and his classmates ran over to her to look at the note to see what all the commotion was. The note read,</br> \"Little Jimmy had a dentist appointment today. I'm sorry for his absence. Please let him be executed at school today.  Signed, Tara Fox.\"",
+                "category": "Children",
+                "id": 2,
+                "title": "Little Jimmy is Late..."
+            }
+        ]
+    },
+
+    {
+        "Set": [
+            {
+                "id": 1,
+                "category": "knock-knock",
+                "body": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?\n\n\n\n Never mind. It's pointless.",
+                "title": "Broken Pencil"
+            },
+            {
+                "id": 2,
+                "category": "knock-knock",
+                "body": "Knock knock. \n Who's there? \n Cows go. \n Cows go who? \n\n\n\n No, cows go moo.",
+                "title": "The Cow"
+            },
+            {
+                "id": 3,
+                "category": "knock-knock",
+                "body": "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who?, \n\n\n\n\n I didn't know you could yodel!",
+                "title": "Little Old Lady"
+            },    
+            {
+                "body": "Knock knock.</br></br>Who's there?</br></br>No one.</br></br>No one who?</br></br>No one to tell you who's here!",
+                "category": "Knock-Knock",
+                "id": 4,
+                "title": "No One"
+            }
+        ]
+    },
+    {
+        "Set" : [
+            {
+                "body": "To be happy with a man, you must understand him a lot and love him a little.</br></br>To be happy with a woman, you must love her a lot and not try to understand her at all.",
+                "category": "Men / Women",
+                "id": 1,
+                "title": "Happiness..."
+            },
+            {
+                "body": "\"An extraordinarily handsome man decided he had the  responsibility to marry the perfect woman so they could produce beautiful children beyond compare.</br></br>With that as his mission he began searching for the perfect woman.</br></br>Shortly there after he met a farmer who had three stunning, gorgeous daughters that positively took his breath away.  So he explained his mission to the farmer,  asking for permission to marry one of them.</br></br>The farmer simply replied, \"They're lookin' to get married, </br>so you came to the right place. Look 'em over and pick the one you want.\"</br></br>The man dated the first daughter. </br></br>The next day the farmer asked for the man's opinion. </br></br>\"Well,\" said the man, \"she's just a weeeeee bit,</br>not that you can hardly notice, pigeon-toed.\"</br></br>The farmer nodded and suggested the man date one</br>of the other girls; so the man went out with the second daughter.</br></br>The next day, the farmer again asked how things went. </br></br>\"Well,\"the man replied, \"she's just a weeeee bit, </br>not that you can hardly tell, cross-eyed.\"</br></br>The farmer nodded and suggested he date the third girl </br>to see if things might be better. So he did.</br></br>The next morning the man rushed in exclaiming,</br></br>\"She's perfect, just perfect. She's the one I want to marry.\" </br></br>So they were wed right away.Months later the baby was born. When the man visited the nursery he was horrified: the baby was the ugliest, most pathetic human you can imagine. He rushed to his father-in-law asking how such a thing could happen considering the beauty of the parents.</br></br>\"Well,\" explained the farmer, \"She was just a weeeee bit, not that you could hardly tell, pregnant when you met her.\"",
+                "category": "Men / Women",
+                "id": 2,
+                "title": "Just A Weeeeee Bit"
+            },
+            {
+                "body": "During the wedding rehearsal, the groom approached the pastor with an unusual offer. \"Look, I'll give you $100 if you'll change the wedding vows. When you get to me and the part where I'm to promise to 'love, honour and obey' and 'forsaking all others, be faithful to her forever,' I'd appreciate it if you'd just leave that part out.\" He passed the minister a $100 bill and walked away satisfied.</br>It is now the day of the wedding, and the bride and groom have moved to that part of the ceremony where the vows are exchanged. When it comes time for the groom's vows, the pastor looks the young man in the eye and says:</br>\"Will you promise to prostrate yourself before her, obey her every command and wish, serve her breakfast in bed every morning of your life and swear eternally before God and your lovely wife that you will not ever even look at another woman, as long as you both shall live?\"</br>The groom gulped and looked around, and said in a tiny voice, \"Yes.\"</br>The groom leaned toward the pastor and hissed, \"I thought we had a deal.\"</br>The pastor put the $100 bill into his hand and whispered back, \"She made me a much better offer.\"",
+                "category": "Men / Women",
+                "id": 3,
+                "title": "Bride & Groom"
+            },
+            {
+                "body": "A man was sitting next to the Pope on a cross-country flight.  The Pope was doing a crossword puzzle.  He turned to the man and asked \"Do you know a four-letter word for 'woman' that ends in U-N-T?\"</br></br>The man thought for a minute and said \"Aunt.\"</br></br>\"Oh yes, of course,\" the Pope replied.  \"Do you have an eraser?\"",
+                "category": "Men / Women",
+                "id": 4,
+                "title": "Pope's Crossword Puzzle"
+            },
+            {
+                "body": "What I Want in a Man, Original List</br>1. Handsome</br>2. Charming</br>3. Financially successful</br>4. A caring listener</br>5. Witty</br>6. In good shape</br>7. Dresses with style</br>8. Appreciates finer things</br>9. Full of thoughtful surprises</br>10. An imaginative, romantic lover </br></br>What I Want in a Man, Revised List (age 32)</br>1. Nice looking (prefer hair on his head)</br>2. Opens car doors, holds chairs</br>3. Has enough money for a nice dinner</br>4. Listens more than talks</br>5. Laughs at my jokes</br>6. Carries bags of groceries with ease</br>7. Owns at least one tie</br>8. Appreciates a good home-cooked meal</br>9. Remembers birthdays and anniversaries</br>10. Seeks romance at least once a week </br></br>What I Want in a Man, Revised List (age 42)</br>1. Not too ugly (bald head OK)</br>2. Doesn't drive off until I'm in the car</br>3. Works steady - splurges on dinner out occasionally</br>4. Nods head when I'm talking</br>5. Usually remembers punch lines of jokes</br>6. Is in good enough shape to rearrange the furniture</br>7. Wears a shirt that covers his stomach</br>8. Knows not to buy champagne with screw-top lids</br>9. Remembers to put the toilet seat down</br>10. Shaves most weekends </br></br>What I Want in a Man, Revised List (age 52)</br>1. Keeps hair in nose and ears trimmed</br>2. Doesn't belch or scratch in public</br>3. Doesn't borrow money too often</br>4. Doesn't nod off to sleep when I'm venting</br>5. Doesn't retell the same joke too many times</br>6. Is in good enough shape to get off couch on weekends</br>7. Usually wears matching socks and fresh underwear</br>8. Appreciates a good TV dinner</br>9. Remembers your name on occasion</br>10. Shaves some weekends </br></br>What I Want in a Man, Revised List (age 62)</br>1. Doesn't scare small children</br>2. Remembers where bathroom is</br>3. Doesn't require much money for upkeep</br>4. Only snores lightly when asleep</br>5. Remembers why he's laughing</br>6. Is in good enough shape to stand up by himself</br>7. Usually wears some clothes</br>8. Likes soft foods</br>9. Remembers where he left his teeth</br>10. Remembers that it's the weekend </br></br>What I Want in a Man, Revised List (age 72)</br>1. Breathing</br>2. Doesn't miss the toilet",
+                "category": "Men / Women",
+                "id": 5,
+                "title": "The Perfect Man"
+            },
+            {
+                "body": "Men: know what they want to be doing five years down the road.</br>Guys: are not sure what they want to be doing later tonight.</br></br>Men: read Crichton, watch Rather, play golf.</br>Guys: read King, watch Seinfeld, play poker.</br></br>Men: wear ties with stripes, shirts with buttons, and shoes with laces.</br>Guys: wear high school T-shirts they've actually owned since high school.</br></br>Men: think perfume (yours) is a turn-on.</br>Guys: think sweat (theirs) is a turn-on.</br></br>Men: balance their checkbooks.</br>Guys: balance their loans so that they never hit up the same buddy twice in a row.</br></br>Men: claim to be feminist but still insist on opening doors, driving, and paying for dinner.</br>Guys: claim to be feminists so they can let YOU open doors, drive, and pay for dinner.</br></br>Men: are afraid of becoming their fathers.</br>Guys: are afraid of becoming men.</br></br>Men: put you on the phone when their mothers call.</br>Guys: pretend you're not there when their moms call.</br></br>Men: start their own businesses.</br>Guys: quit their jobs.</br></br>Men: are experts on women's erogenous zones.</br>Guys: are experts on their own erogenous zone.</br></br>Men: order wine based on more than the price.</br>Guys: bring their own beer.",
+                "category": "Men / Women",
+                "id": 6,
+                "title": "Men vs Guys"
+            },
+            {
+                "body": "Because I'm a guy, I must hold the television remote control in my hand while I watch TV. If the thing has been misplaced, I'll miss a whole show looking for it, though one time I was able to survive by holding a calculator.</br></br>Because I'm a guy, when I lock my keys in the car I will fiddle with a wire clothes hanger and ignore your suggestions that we call a road service until long after hypothermia has set in.</br></br>Oh, and when the car isn't running very well, I will pop the hood and stare at the engine as if I know what I'm looking at. If another guy shows up, one of us will say to the other, \"I used to be able to fix these things, but now with all these computers and everything, I wouldn't know where to start.\" We will then drink beer.</br></br>Because I'm a guy, when I catch a cold I need someone to bring me soup and take care of me while I lie in bed and moan. You never get as sick as I do, so for you this isn't an issue.</br></br>Because I'm a guy, I can be relied upon to purchase basic groceries at the store, like milk or bread. I cannot be expected to find exotic items like \"cumin\" or \"tofu.\" For all I know these are the same thing. And never, under any circumstances, expect me to pick up anything for which \"feminine hygiene product\" is a euphemism.</br></br>Because I'm a guy, when one of our appliances stops working I will insist on taking it apart -- despite evidence that this will just cost me twice as much once the repair person gets here and has to put it back together.</br></br>Because I'm a guy, I don't think we're all that lost, and no, I don't think we should stop and ask someone. Why would you listen to a complete stranger -- how the heck could HE know where we're going?</br></br>Because I'm a guy, there is no need to ask me what I'm thinking about. The answer is always either sex or football, though I have to make up something else when you ask, so don't.</br></br>Because I'm a guy, I do not want to visit your mother, or have your mother come visit us, or talk to her when she calls, or think about her any more than I have to. Whatever you got her for Mother's Day is okay, I don't need to see it. Did you remember to pick up something for my mom, too?</br></br>Because I'm a guy, I am capable of announcing, \"one more beer and I really have to go,\" and mean it every single time I say it, even when it gets to the point that the one bar closes and my buddies and I have to go hunt down another. I will find it increasingly hilarious to have my pals call you to tell you I'll be home soon, and no, I don't understand why you threw all my clothes into the front yard. What's the connection?</br></br>Because I'm a guy, you don't have to ask me if I liked the movie. Chances are, if you're crying at the end of it, I didn't.</br></br>Because I'm a guy, yes, I have to turn up the radio when Bruce Springsteen or The Doors comes on, and then, yes, I have to tell you every single time about how Bruce had his picture on the cover of Time and Newsweek the same day, or how Jim Morrison is buried in Paris and everyone visits his grave. Please do not behave as if you do not find this fascinating.</br></br>Because I'm a guy, I think what you're wearing is fine. I thought what you were wearing five minutes ago was fine, too. Either pair of shoes is fine. With the belt or without it looks fine. Your hair is fine. You look fine. Can we just go now?</br></br>Because I'm a guy and this is, after all, the new millennium, I will share equally in the housework. You do the laundry, the cooking, the cleaning and the dishes. I'll do the rest.",
+                "category": "Men / Women",
+                "id": 7,
+                "title": "I Am A Guy"
+            },
+            {
+                "body": "1. Women love to shop. It is the one area of the world where they feel like they're actually in control. </br></br>2. Women especially love a bargain. The question of \"need\" is irrelevant, so don't bother pointing it out. Anything on sale is fair game. </br></br>3. Women never have anything to wear. Don't question the racks of clothes in the closet; you \"just don't understand\". </br></br>4. Women need to cry. And they won't do it alone unless they know you can hear them. </br></br>5. Women will always ask questions that have no right answer, in an effort to trap you into feeling guilty. </br></br>6. Women love to talk. Silence intimidates them and they feel a need to fill it, even if they have nothing to say. </br></br>7. Women need to feel like there are people worse off than they are. That's why soap operas and Oprah Winfrey-type shows are so successful. </br></br>8. Women don't need sex as often as men do. This is because sex is more physical for men and more emotional for women. Just knowing that the man wants to have sex with them fulfills the emotional need. </br></br>9. Women hate bugs. Even the strong-willed ones need a man around when there's a spider or a wasp involved.</br></br>10. Women can't keep secrets. They eat away at them from the inside. And they don't view it as being untrustworthy, providing they only tell two or three people. </br></br>11. Women always go to public restrooms in groups. It gives them a chance to gossip. </br></br>12. Women can't refuse to answer a ringing phone, no matter what she's doing. It might be the lottery calling. </br></br>13. Women never understand why men love toys. Men understand that they wouldn't need toys if women had an \"on/off\" switch. </br></br>14. Women think all beer is the same. </br></br>15. Women keep three different shampoos and two different conditioners in the shower. After a woman showers, the bathroom will smell like a tropical rain forest. </br></br>16. Women don't understand the appeal of sports. Men seek entertainment that allows them to escape reality. Women seek entertainment that reminds them of how horrible things could be. </br></br>17. If a man goes on a seven-day trip, he'll pack five days worth of clothes and will wear some things twice; if a woman goes on a seven-day trip she'll pack 21 outfits because she doesn't know what she'll feel like wearing each day. </br></br>18. Women brush their hair before bed. </br></br>19. Watch a woman eat an ice cream cone and you'll have a pretty good idea about how she'll be in bed. </br></br>20. Women are paid less than men, except for one field: Modeling. </br></br>21. Women are never wrong. Apologizing is the man's responsibility, \"It's there in the Bible\". Hmmm, who was it that gave Adam the apple? </br></br>22. Women do not know anything about cars. \"Oil-stick, oil doesn't stick?\" </br></br>23. Women have better restrooms. They get the nice chairs and red carpet. Men just get a large bowl to share. </br></br>24. The average number of items in a typical woman's bathroom is 437. A man would not be able to identify most of these items.</br></br>25. Women love cats. Men say they love cats, but when women aren't looking, men kick cats.</br></br>26. Women love to talk on the phone. A woman can visit her girlfriend for two weeks, and upon returning home, she will call the same friend and they will talk for three hours.</br></br>27. A woman will dress up to go shopping, water the plants, empty the garbage, answer the phone, read a book, or get the mail.</br></br>28. Women will drive miles out of their way to avoid the possibility of getting lost using a shortcut.</br></br>29. Women don't try as hard as men during sex; after all, they don't fall asleep afterwards.</br></br>30. Women do NOT want an honest answer to the question, \"How do I look?\"</br></br>31. PMS stands for: Permissible Man-Slaughter. (Or at least men think it means that. PMS also stands for Preposterous Mood Swings and Punish My Spouse. </br></br>32. The first naked man a women sees is \"Ken\". </br></br>33. Women are insecure about their weight, butt, and breast sizes.</br></br>34. Women will make three right-hand turns to avoid making one left-hand turn.</br></br>35. \"Oh, nothing,\" has an entirely different meaning in woman-language than it does in man-language.</br></br>36. Lewis Carroll's Caterpillar had nothing on women.</br></br>37. Women cannot use a map without turning the map to correspond to the direction that they are heading.</br></br>38. All women are overweight by definition; don't agree with them about it. Women always have 5 pounds to lose, but don't bring this up unless they really have 5 pounds to gain.</br></br>39. If it is not Valentines day and you see a man in a flower shop, you can probably start up a conversation by asking, \"What did you do?\"</br></br>40. Only women understand the reason for \"guest towels\" and the \"good china\".</br></br>41. Women want equal rights, but you rarely hear them clamoring to be let into the draft to cover the responsibilities that go with those rights. All women seek equality with men until it comes to sharing the closet, taking out the trash, and picking up the check.</br></br>42. Origin of the word \"woman\" is: woo-man.</br></br>43. If a man ticks off a woman she will often respond by getting a fuzzy toilet cover which warms their rear, but makes it impossible for the lid to stay up, thus it constantly gets peed on by the guys (which gets them in more trouble).</br></br>44. Women never check to see if the lid is up. They seem to prefer taking a flying butt leap towards the bowl and then chewing men out because they \"left the seat up\" instead of taking two seconds and lowering it themselves.</br></br>45. Women can get out of speeding tickets by pouting. This will get men arrested.</br></br>46. Women don't really care about a sense of humor in a guy despite claims to the contrary. You don't see women trampling over Tom Cruise to get to Gilbert Gottfried, do you?</br></br>47. Women fake orgasm because men fake foreplay.</br></br>48. It's okay for women to dance with each other and not be gay. You don't see straight men dancing together.</br></br>49. Women will spend hours dressing up to go out, and then they'll go out and spend more time checking out other women. Men can never catch women checking out other men; women will always catch men checking out other women.</br></br>50. The most embarrassing thing for women is to find another woman wearing the same dress at a formal party. You don't hear men say, \"Oh-my-GOD, there's another man wearing a black tux, get me outta here!\"",
+                "category": "Men / Women",
+                "id": 8,
+                "title": "50 Facts About Women"
+            } 
+        ]
+    }
+    
+]
